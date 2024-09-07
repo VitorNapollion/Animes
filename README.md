@@ -1,4 +1,4 @@
-# Projeto Animes VT
+# Projeto Animes VT - Imersão Dev com Google Gemini
 
 Este é um projeto simples de uma página web dedicada a informações sobre animes populares. Ele permite que os usuários pesquisem por animes utilizando palavras-chave relacionadas ao título, descrição ou tags e exibam os resultados na tela com detalhes sobre cada anime listado.
 
